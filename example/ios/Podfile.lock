@@ -1,0 +1,35 @@
+PODS:
+  - Flutter (1.0.0)
+  - "permission_handler (5.0.1+1)":
+    - Flutter
+  - tencent_rtc_plugin (0.0.1):
+    - Flutter
+    - TXLiteAVSDK_Professional
+  - TXLiteAVSDK_Professional (7.8.9518)
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - "permission_handler (from `/Applications/flutter/.pub-cache/hosted/pub.flutter-io.cn/permission_handler-5.0.1+1/ios/permission_handler.podspec`)"
+  - tencent_rtc_plugin (from `/Users/mam/Documents/GitHub/LiteAVSDK_Pro_TRTC_Flutter/ios/tencent_rtc_plugin.podspec`)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - TXLiteAVSDK_Professional
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  permission_handler:
+    :path: "/Applications/flutter/.pub-cache/hosted/pub.flutter-io.cn/permission_handler-5.0.1+1/ios/permission_handler.podspec"
+  tencent_rtc_plugin:
+    :path: "/Users/mam/Documents/GitHub/LiteAVSDK_Pro_TRTC_Flutter/ios/tencent_rtc_plugin.podspec"
+
+SPEC CHECKSUMS:
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  permission_handler: eac8e15b4a1a3fba55b761d19f3f4e6b005d15b6
+  tencent_rtc_plugin: 7ab81b2f93204fa78dcb26e2fce0748ae5db7e8a
+  TXLiteAVSDK_Professional: be9ec645e25536c4dcd5f537c37605c673dd19d5
+
+PODFILE CHECKSUM: c46eadc411b65a7addb28bc4f6bae94df34d03ea
+
+COCOAPODS: 1.10.0.beta.2
