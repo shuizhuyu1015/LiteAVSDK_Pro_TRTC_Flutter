@@ -6,5 +6,5 @@
 ```
 tencent_rtc_plugin:
   git:
-    url: https://github.com/shuizhuyu1015/LiteAVSDK_Pro_TRTC_Flutter.git
+    url: https://gitlab.mamcharge.com/Gray/flutter_trtc_pro.git
 ```
